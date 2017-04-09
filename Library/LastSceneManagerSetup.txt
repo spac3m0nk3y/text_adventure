@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Main.unity
+- path: C:/Users/Phi/Desktop/PAN/development/TextAdventure_pt1/Text_Adventure/Assets/Main.unity
   isLoaded: 1
   isActive: 1
